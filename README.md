@@ -1,2 +1,2 @@
 # capacitor-chrome-version-reader
-Capacitor plugin to get Android version on end-user device
+Capacitor plugin to get Chrome version on end-user Android device
